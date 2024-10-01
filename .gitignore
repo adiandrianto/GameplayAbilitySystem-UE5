@@ -1,0 +1,12 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Build
+
+.vs
+*.sln
+*.opendb
+*VC.db
+*.sdf
+*.suo
